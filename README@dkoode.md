@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dkoode
 - 👀 I’m interested in designing app's & web development
 - 🌱 I’m currently learning web technologies
-- 📫 You can reach me from koseogludoganay@dkode.net :)
+- 📫 You can reach me at koseogludoganay@dkode.net :)
